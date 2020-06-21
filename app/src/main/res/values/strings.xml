@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do Android App</string>
+    <string name="high_priority">High Priority</string>
+    <string name="low_priority">Low Priority</string>
+</resources>
